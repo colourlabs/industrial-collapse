@@ -1,2 +1,13 @@
-.mani/
+# build artifacts
+dist/
+*.mrpack
+*.jar
+
+# secrets
 build_config.json
+
+# mani
+.mani/
+
+# generated
+pack/modrinth.index.json

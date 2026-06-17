@@ -76,10 +76,18 @@
     "slug": "terrablender",
     "source": "modrinth"
   },
+  {
+    "slug": "rhino",
+    "source": "modrinth"
+  },
 
   // configuration mods
   {
     "slug": "kubejs",
+    "source": "modrinth"
+  },
+  {
+    "slug": "kubejs-immersive-engineering",
     "source": "modrinth"
   },
 
@@ -93,5 +101,10 @@
     "slug": "ftb-library",
     "source": "curseforge",
     "project_id": "404465"
+  },
+  {
+    "slug": "ftb-xmod-compat",
+    "source": "curseforge",
+    "project_id": "889915"
   }
 ]
