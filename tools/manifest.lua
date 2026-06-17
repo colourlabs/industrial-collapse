@@ -20,12 +20,12 @@ local function build_files(resolved_mods)
   for _, mod in ipairs(resolved_mods) do
     if mod.hash then
       table.insert(files, {
-        path = "mods/" .. mod.filename,
-        hashes = {
+        path      = "mods/" .. mod.filename,
+        hashes    = {
           sha512 = mod.hash,
         },
         downloads = { mod.download },
-        fileSize = mod.size,
+        fileSize  = mod.size,
       })
     else
       io.stderr:write("warning: skipping " .. mod.slug .. " (no hash)\n")

@@ -59,4 +59,9 @@ mani.task("list", function()
   mani:exec(ENV .. " lua tools/main.lua list")
 end)
 
+mani.task("pack", function()
+  mani:log("packaging modpack...")
+  mani:exec(ENV .. " lua tools/main.lua pack")
+end)
+
 mani.task("default", { "run" }, function() end)

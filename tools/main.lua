@@ -4,12 +4,14 @@ local lunajson = require("lunajson")
 local curseforge = require("tools.curseforge")
 local modrinth = require("tools.modrinth")
 local manifest = require("tools.manifest")
+local pack = require("tools.pack")
 
 local parser = argparse("industrial-collapse-tools", "the modpack build tool")
 
 local build_cmd = parser:command("build", "resolve mods and write modrinth.index.json")
 build_cmd:option("-o --output", "output path for modrinth.index.json", "pack/modrinth.index.json")
 
+parser:command("pack", "package modpack into .mrpack")
 parser:command("list", "list mods in mods.jsonc")
 
 local args = parser:parse()
@@ -60,4 +62,8 @@ elseif args.list then
       local pin = mod.pin and " (pinned: " .. mod.pin .. ")" or ""
       print("  " .. mod.slug .. " [" .. mod.source .. "]" .. pin)
   end
+
+elseif args.pack then
+  local config = load_config()
+  pack.pack(config)
 end
