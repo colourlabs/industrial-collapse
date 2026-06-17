@@ -80,6 +80,26 @@
     "slug": "rhino",
     "source": "modrinth"
   },
+  {
+    "slug": "architectury-api",
+    "source": "modrinth"
+  },
+  {
+    "slug": "zerocore",
+    "source": "modrinth"
+  },
+  {
+    "slug": "glitchcore",
+    "source": "modrinth"
+  },
+  {
+    "slug": "guideme",
+    "source": "modrinth"
+  },
+  {
+    "slug": "lithostitched",
+    "source": "modrinth"
+  },
 
   // configuration mods
   {
@@ -102,5 +122,10 @@
     "slug": "ftb-xmod-compat",
     "source": "curseforge",
     "project_id": "889915"
+  },
+  {
+    "slug": "ftb-teams-forge",
+    "source": "curseforge",
+    "project_id": "404468"
   }
 ]
