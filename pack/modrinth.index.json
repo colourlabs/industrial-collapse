@@ -1,0 +1,213 @@
+{
+  "dependencies": {
+    "forge": "47.1.0",
+    "minecraft": "1.20.1"
+  },
+  "files": [
+    {
+      "hashes": {
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "fileSize": 123034,
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9"
+      },
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "fileSize": 1320675,
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "cc89c6b2dd0db709586028c7732a57a3e6184f19cc2b98b25964c720c3ab434031e62de23e0dab022575d637b5e4a34b5813164d32ec356d56588da400e7d026"
+      },
+      "path": "mods/starlight-1.1.2+forge.1cda73c.jar",
+      "fileSize": 110583,
+      "downloads": [
+        "https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "0b4643f3cd1b68d2afb043a461be646b5c6c1cc04f4a3fddde3baae7e4ce2b81265453cc4794736141d65287a2b109995dd202c3d6de618f229d1f8d32e34ce8"
+      },
+      "path": "mods/gtceu-1.20.1-7.5.3.jar",
+      "fileSize": 18209988,
+      "downloads": [
+        "https://cdn.modrinth.com/data/7tG215v7/versions/yLwvjuvy/gtceu-1.20.1-7.5.3.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "edc08a999b57e80426c737efa5b50c6d19ab40cb03f752bc26e2912fe12b989cefd5feff519ce0d87a4717a74c22a99242263ee4de63c1c84f91306d156134ee"
+      },
+      "path": "mods/appliedenergistics2-forge-15.4.10.jar",
+      "fileSize": 8495956,
+      "downloads": [
+        "https://cdn.modrinth.com/data/XxWD5pD3/versions/7KVs6HMQ/appliedenergistics2-forge-15.4.10.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "fdb52fb1faf5522c97820480e436216114c931672d3b0ff1c26c64a5bfd350d3599df31dcb14a5dba49236d8fac3d99b4bb96b0a84d55443e282754d687536f7"
+      },
+      "path": "mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+      "fileSize": 12129396,
+      "downloads": [
+        "https://cdn.modrinth.com/data/tIm2nV03/versions/WUzj4tgJ/ImmersiveEngineering-1.20.1-10.2.0-183.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "90bc23690603f1704d3a0a2dc019a8e3931e398c70916c744e2ecbea9f15cc6b10b8df6221afd7cc5375f7677cabf367f3b9a700289e26a4b0b889a5b5b9969c"
+      },
+      "path": "mods/ExtremeReactors2-1.20.1-2.0.84.jar",
+      "fileSize": 2503650,
+      "downloads": [
+        "https://cdn.modrinth.com/data/idkvShUy/versions/5A5jbWkI/ExtremeReactors2-1.20.1-2.0.84.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "d23b4526f80ed88b9253b4cb28f9f2675744dcabfee9e19f3e33f5870b84b7fa1e3104ff1201d0b4408d6a8354195cbedee1ed42100c9778e1ffd32ddab5e55e"
+      },
+      "path": "mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "fileSize": 22381010,
+      "downloads": [
+        "https://cdn.modrinth.com/data/HXF82T3G/versions/jxUqRzSD/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "885e171d8b34aae7e142f082d0364285ec5a8e8342f11c60d341f7a94083d5a42c4e30612fe4f9f64d57b484396a3dff3a224e2a2497d4ced8d22f2ad6cd561d"
+      },
+      "path": "mods/Terralith_1.20.x_v2.5.4.jar",
+      "fileSize": 3156901,
+      "downloads": [
+        "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "96840393db8e50645d80ee1a04fdecf11b8e9ce5aa807fc1be626429d874fd5b7cb57a6ed8d7d7e2448a3e3f43ef3826f33abeafd430c6d852cb1b1af6c793b2"
+      },
+      "path": "mods/tectonic-3.0.17-forge-1.20.1.jar",
+      "fileSize": 322575,
+      "downloads": [
+        "https://cdn.modrinth.com/data/lWDHr9jE/versions/KLmvRxwh/tectonic-3.0.17-forge-1.20.1.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "0f1b3f80ddb2fc76cfe64a52d9cc6a04b57151d592d4f85dd03f5714d6917a1e5e7c0fc1a572c9cf2e307e8008743f0a6872fd5875380995cccaccd3e5e084ab"
+      },
+      "path": "mods/gravestone-forge-1.20.1-1.0.35.jar",
+      "fileSize": 317181,
+      "downloads": [
+        "https://cdn.modrinth.com/data/RYtXKJPr/versions/q9kZE5Xo/gravestone-forge-1.20.1-1.0.35.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "612c7535d28ae0cb336f31b790770b3dcb5173d496fb74eabcb28d06e3b88e72733128060cefc4ae4147cce528a8e8c09688a36d8f9e11dbf77e93d89b743560"
+      },
+      "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "fileSize": 552486,
+      "downloads": [
+        "https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "1987d97dfee85090117b3f5572059fcbf242f8dd4b41e2002c21ff271100aaf2ccc2f3ff912fa36a8cfec946c0a55e170d98c8b10347121357c9d428e08f6427"
+      },
+      "path": "mods/jei-1.20.1-forge-15.20.0.130.jar",
+      "fileSize": 1409705,
+      "downloads": [
+        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RTFeXsvE/jei-1.20.1-forge-15.20.0.130.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "84568db84d4486e70ddd06c280b6ec69657d53e99cdd1d974db40bf53397ce2fd371e8dd0567fd06f757f2bb6e802a5c54de73f70033f9236dad04b316d33462"
+      },
+      "path": "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "fileSize": 276231,
+      "downloads": [
+        "https://cdn.modrinth.com/data/uEfK2CXF/versions/jW52tbTk/JustEnoughResources-1.20.1-1.4.0.247.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "b1637b0cd3cf8062cada8a13e7d49ed15b7a2ff6c1502c8ba044c2c7cad3c07f1312d50f997405da658695b0e7ddcb916074b5c2da23db36b5391ae88a94d80e"
+      },
+      "path": "mods/JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
+      "fileSize": 24607,
+      "downloads": [
+        "https://cdn.modrinth.com/data/kB56GtWA/versions/ANKVJC3T/JustEnoughProfessions-forge-1.20.1-3.0.1.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a260231579578536d03571377e43c6181adc75d8dd2c0733f17fce4f7e636b9"
+      },
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "fileSize": 47428,
+      "downloads": [
+        "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "69b819eb021032561626cf436635c31dced45baae6ef9f21d95690e1e57c55914dc72a43a4ccd0a3337cd32e89ff592056be8dc6b7bd12842438500a157a6275"
+      },
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "fileSize": 107533,
+      "downloads": [
+        "https://cdn.modrinth.com/data/kkmrDlKT/versions/zGconCHG/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "71ef9e5eb5f3bead86b635b42ad305d075c6487e631217b281d938193dcdc5fe0ff6bae8c86dd4e069726223a66e8690c0610f736c5a62910f60fd80edd575c1"
+      },
+      "path": "mods/kubejs-forge-2001.6.5-build.26.jar",
+      "fileSize": 1658792,
+      "downloads": [
+        "https://cdn.modrinth.com/data/umyGl7zF/versions/hVR2xUSr/kubejs-forge-2001.6.5-build.26.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "70f3bd771ab3b5921ce1ff5f14166fab694ca1aa"
+      },
+      "path": "mods/ftb-quests-forge-2001.4.22.jar",
+      "fileSize": 1255469,
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8078/538/ftb-quests-forge-2001.4.22.jar"
+      ]
+    },
+    {
+      "hashes": {
+        "sha512": "a5427d5ff07eb044144ed0b54308370d88bce17e"
+      },
+      "path": "mods/ftb-library-forge-2001.2.13.jar",
+      "fileSize": 780558,
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8226/927/ftb-library-forge-2001.2.13.jar"
+      ]
+    }
+  ],
+  "summary": "a chaotic tech modpack",
+  "name": "industrial collapse",
+  "versionId": "1.0.0",
+  "game": "minecraft",
+  "formatVersion": 1
+}

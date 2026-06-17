@@ -1,0 +1,97 @@
+[
+  // performance
+  {
+    "slug": "ferrite-core",
+    "source": "modrinth"
+  },
+  {
+    "slug": "embeddium",
+    "source": "modrinth"
+  },
+  {
+    "slug": "starlight-forge",
+    "source": "modrinth"
+  },
+
+  // core tech
+  {
+    "slug": "gregtechceu-modern",
+    "source": "modrinth"
+  },
+  {
+    "slug": "ae2",
+    "source": "modrinth"
+  },
+  {
+    "slug": "immersiveengineering",
+    "source": "modrinth"
+  },
+  {
+    "slug": "extreme-reactors",
+    "source": "modrinth"
+  },
+
+  // environment
+  {
+    "slug": "biomes-o-plenty",
+    "source": "modrinth"
+  },
+  {
+    "slug": "terralith",
+    "source": "modrinth"
+  },
+  {
+    "slug": "tectonic",
+    "source": "modrinth"
+  },
+
+  // "makes life less harder" mods
+  {
+    "slug": "gravestone-mod",
+    "source": "modrinth"
+  },
+  {
+    "slug": "jade",
+    "source": "modrinth"
+  },
+  {
+    "slug": "jei",
+    "source": "modrinth"
+  },
+  {
+    "slug": "just-enough-resources-jer",
+    "source": "modrinth"
+  },
+  {
+    "slug": "just-enough-professions-jep",
+    "source": "modrinth"
+  },
+  {
+    "slug": "appleskin",
+    "source": "modrinth"
+  },
+
+  // dependency mods
+  {
+    "slug": "terrablender",
+    "source": "modrinth"
+  },
+
+  // configuration mods
+  {
+    "slug": "kubejs",
+    "source": "modrinth"
+  },
+
+  // guide
+  {
+    "slug": "ftb-quests",
+    "source": "curseforge",
+    "project_id": "289412"
+  },
+  {
+    "slug": "ftb-library",
+    "source": "curseforge",
+    "project_id": "404465"
+  }
+]
