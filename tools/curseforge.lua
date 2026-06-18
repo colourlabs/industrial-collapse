@@ -116,7 +116,7 @@ function M.resolve(mod, mc_version, loader)
         .. file.fileName
   end
 
-  io.write("    hashing " .. file.fileName .. "... ")
+  io.write(" hashing " .. file.fileName .. "... ")
   local hash, size = download_and_hash(download)
   if not hash then
     return nil, "failed to hash " .. mod.slug

@@ -12,12 +12,18 @@
     "slug": "starlight-forge",
     "source": "modrinth"
   },
+  {
+    "slug": "fastfurnace",
+    "source": "curseforge",
+    "project_id": "299540"
+  },
+  {
+    "slug": "fastworkbench",
+    "source": "curseforge",
+    "project_id": "288885"
+  },
 
   // core tech
-  {
-    "slug": "gregtechceu-modern",
-    "source": "modrinth"
-  },
   {
     "slug": "ae2",
     "source": "modrinth"
@@ -28,6 +34,39 @@
   },
   {
     "slug": "extreme-reactors",
+    "source": "modrinth"
+  },
+  {
+    "slug": "flux-networks",
+    "source": "curseforge",
+    "project_id": "248020"
+  },
+
+  // mining automation
+  {
+    "slug": "additional-enchanted-miner",
+    "source": "modrinth"
+  },
+
+  // thermal series
+  {
+    "slug": "thermal-foundation",
+    "source": "modrinth"
+  },
+  {
+    "slug": "thermal-expansion",
+    "source": "modrinth"
+  },
+  {
+    "slug": "thermal-dynamics",
+    "source": "modrinth"
+  },
+  {
+    "slug": "thermal-innovation",
+    "source": "modrinth"
+  },
+  {
+    "slug": "thermal-integration",
     "source": "modrinth"
   },
 
@@ -70,10 +109,32 @@
     "slug": "appleskin",
     "source": "modrinth"
   },
+  {
+    "slug": "ftb-backups-2",
+    "source": "curseforge",
+    "project_id": "622737"
+  },
+  {
+    "slug": "waystones",
+    "source": "modrinth"
+  },
+  {
+    "slug": "inventory-profiles-next",
+    "source": "modrinth"
+  },
+  {
+    "slug": "jei-integration",
+    "source": "curseforge",
+    "project_id": "265917"
+  },
 
   // dependency mods
   {
     "slug": "terrablender",
+    "source": "modrinth"
+  },
+  {
+    "slug": "balm",
     "source": "modrinth"
   },
   {
@@ -100,10 +161,68 @@
     "slug": "lithostitched",
     "source": "modrinth"
   },
+  {
+    "slug": "yungs-api",
+    "source": "modrinth"
+  },
+  {
+    "slug": "cofh-core",
+    "source": "modrinth"
+  },
+  {
+    "slug": "athena-ctm",
+    "source": "modrinth"
+  },
+  {
+    "slug": "resourceful-lib",
+    "source": "modrinth"
+  },
+  {
+    "slug": "kotlin-for-forge",
+    "source": "modrinth"
+  },
+  {
+    "slug": "libipn",
+    "source": "modrinth"
+  },
+  {
+    "slug": "supermartijn642s-config-lib",
+    "source": "modrinth"
+  },
+  {
+    "slug": "supermartijn642s-core-lib",
+    "source": "modrinth"
+  },
+  {
+    "slug": "scalable-cats-force",
+    "source": "modrinth"
+  },
+  {
+    "slug": "placebo",
+    "source": "modrinth"
+  },
+  {
+    "slug": "polylib",
+    "source": "curseforge",
+    "project_id": "576589"
+  },
+  {
+    "slug": "fusion-connected-textures",
+    "source": "curseforge",
+    "project_id": "854949"
+  },
 
   // configuration mods
   {
     "slug": "kubejs",
+    "source": "modrinth"
+  },
+  {
+    "slug": "kubejs-thermal",
+    "source": "modrinth"
+  },
+  {
+    "slug": "remove-terralith-intro-message",
     "source": "modrinth"
   },
 
@@ -127,5 +246,57 @@
     "slug": "ftb-teams-forge",
     "source": "curseforge",
     "project_id": "404468"
+  },
+
+  // decoration
+  {
+    "slug": "rechiseled",
+    "source": "modrinth"
+  },
+  {
+    "slug": "rechiseled-ae2",
+    "source": "modrinth"
+  },
+  {
+    "slug": "chipped",
+    "source": "modrinth"
+  },
+  {
+    "slug": "rechiseled-chipped",
+    "source": "modrinth"
+  },
+
+  // exploration - YUNG's better structures
+  {
+    "slug": "yungs-better-dungeons",
+    "source": "modrinth"
+  },
+  {
+    "slug": "yungs-better-mineshafts",
+    "source": "modrinth"
+  },
+  {
+    "slug": "yungs-better-strongholds",
+    "source": "modrinth"
+  },
+  {
+    "slug": "yungs-better-nether-fortresses",
+    "source": "modrinth"
+  },
+  {
+    "slug": "yungs-better-ocean-monuments",
+    "source": "modrinth"
+  },
+  {
+    "slug": "yungs-better-witch-huts",
+    "source": "modrinth"
+  },
+  {
+    "slug": "yungs-extras",
+    "source": "modrinth"
+  },
+  {
+    "slug": "yungs-bridges",
+    "source": "modrinth"
   }
 ]
