@@ -26,7 +26,6 @@ local k = {
 
 local MASK = 0xFFFFFFFFFFFFFFFF
 
--- ROR is now 64-bit
 local function rrotate(x, n)
   x = x & MASK
   return ((x >> n) | (x << (64 - n))) & MASK

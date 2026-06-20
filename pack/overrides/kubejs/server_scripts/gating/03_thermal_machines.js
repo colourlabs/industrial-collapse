@@ -46,12 +46,13 @@ ServerEvents.recipes((event) => {
 
   // sawmill
   event.remove({ output: "thermal:machine_sawmill" });
-  event.shaped("thermal:machine_sawmill", ["STS", "TMT", "STS"], {
-    S: "#forge:ingots/steel",
+  event.shaped("thermal:machine_sawmill", ["SBS", "TMT", "SBS"], {
+    S: "immersiveengineering:ingot_steel",
+    B: "immersiveengineering:plate_steel",
     T: "immersiveengineering:treated_wood_horizontal",
     M: "thermal:machine_frame",
   });
-
+  
   // thermal machine frame
   // base frame requires IE steel so nothing in Thermal
   // can be crafted without touching IE first
