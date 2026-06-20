@@ -47,6 +47,13 @@
     "project_id": "268250"
   },
 
+  // early-game storage
+  {
+    "slug": "functional-storage",
+    "source": "curseforge",
+    "project_id": "556861"
+  },
+
   // mining automation
   {
     "slug": "additional-enchanted-miner",
@@ -124,10 +131,6 @@
     "source": "modrinth"
   },
   {
-    "slug": "inventory-profiles-next",
-    "source": "modrinth"
-  },
-  {
     "slug": "jei-integration",
     "source": "curseforge",
     "project_id": "265917"
@@ -187,10 +190,6 @@
     "source": "modrinth"
   },
   {
-    "slug": "libipn",
-    "source": "modrinth"
-  },
-  {
     "slug": "supermartijn642s-config-lib",
     "source": "modrinth"
   },
@@ -215,6 +214,11 @@
     "slug": "fusion-connected-textures",
     "source": "curseforge",
     "project_id": "854949"
+  },
+  {
+    "slug": "titanium",
+    "source": "curseforge",
+    "project_id": "287342"
   },
 
   // configuration mods
@@ -303,5 +307,12 @@
   {
     "slug": "yungs-bridges",
     "source": "modrinth"
+  },
+
+  // some other stuff for good measure
+  {
+    "slug": "alcocraft",
+    "source": "raw_jar_download",
+    "url": "https://github.com/colourlabs/alcocraft-1.20/releases/download/v1.0/alcocraft-1.0.0.jar"
   }
 ]
